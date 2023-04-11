@@ -4,6 +4,11 @@ title: "Nordins Noter"
 # Hjem
 Velkommen til Nordins Noter
 
+>[!warning]
+>Søgning kan være lidt scuffed
+>
+>
+
 ## Generale links
 [Shakspere TODO](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
 
