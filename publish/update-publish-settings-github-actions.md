@@ -1,6 +1,8 @@
 ---
 title: "Update the Publish Settings"
 ---
+Pløk mig til en væk :bites_lipes:
+
 There are two things you can modify in the workflow. The publish directory and the blog repository.
 
 - `BLOG_REPO`: Next.JS app repository template that is used to publish your markdown notes. This is useful when you [[deploy-a-custom-linked-blog-starter|create your own custom linked blog]]

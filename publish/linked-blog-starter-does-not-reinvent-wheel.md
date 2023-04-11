@@ -2,6 +2,8 @@
 title: "linked-blog-starter does not reinvent the wheel"
 date: 2022-12-12
 ---
+Jeg skyder ret mange ** NIG*****
+
 I'm not a fan of [[reinventing-the-wheel|reinventing the wheel]], thus, I've searched for the best libraries out there to help me make this website. Here are a few external libraries I used:
 
 ## Converting MD to HTML
