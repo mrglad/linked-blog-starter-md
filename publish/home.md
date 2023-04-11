@@ -5,7 +5,7 @@ title: "Nordins Noter"
 Velkommen til Nordins Noter
 
 ## Generale links
-[**Shakspere TODO**](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
+[Shakspere TODO](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
 
 [Tracking time](https://pro.trackingtime.co/#/hours) Tjek for lang tid du bruger på dine todo
 
@@ -23,5 +23,8 @@ Velkommen til Nordins Noter
 
 [GeoGebra](https://www.geogebra.org/classic?lang=en) Til at lave grafer og polygoner
 
+[IT-info](https://aarhustech.itslearning.com/eportfolio/427803/itinfo) Hvis du skal have IT hjælp som printer eller internet 
 
-[Notion noter](https://nordinmp.notion.site/nordinmp/Skole-dashboard-87cc63aa4e1f4836b6846be8fc894710) (No longer maintained) Gamle noter hvis der er noget som ser mærkeligtud
+
+
+[Notion noter](https://nordinmp.notion.site/nordinmp/Skole-dashboard-87cc63aa4e1f4836b6846be8fc894710) (No longer maintained) Gamle noter hvis der er noget som ser mærkeligt ud
