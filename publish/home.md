@@ -3,6 +3,8 @@ title: "Nordins Noter"
 ---
 # Hjem
 Velkommen til Nordins Noter
+Noterne tager mellem 3-5 min at blive opdaret fra jeg er færdig med at skrive dem.
+Alt som ikke er ren tekst og links kan være lidt scuffed, men det må i bare leve med
 
 >[!warning]
 >Søgning kan være lidt scuffed
