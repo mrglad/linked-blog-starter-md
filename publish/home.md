@@ -14,6 +14,8 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 >QUICK FIX: Reload siden og prøv igen
 >
 
+
+
 ## Generale links
 [Shakspere TODO](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
 
