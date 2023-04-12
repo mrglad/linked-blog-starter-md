@@ -1,4 +1,7 @@
-#fysik #ordbog #elektrisitet
+---
+Formel: $P = R*I^2$
+---
+#fysik #ordbog #elektrisitet #Formeler 
 Det som påvirker varmetab mest, er Strømstyrken ($I^2$)
 
 Hvor kommer den frem
