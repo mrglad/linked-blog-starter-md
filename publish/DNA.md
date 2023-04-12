@@ -11,29 +11,6 @@ DNA er i alle levende celler. DNA står for alle arvelige egenskaber. DNA bestå
 
 A og T er ”makker” og G og C er ”makker”, de kan ikke være sammen med de andre grundkategorier.
 
-# Genom
 
-Samlet mængde DNA i celle, bestemmer hvordan man skal se ud
-
-## Gen
-
-En del af DNA som indeholder opskriften på et protein
-
-20.000 proteinkoder
-
-# Transkription i cellekernen
-laver DNA om til RNA
-
-[RNA](https://www.notion.so/RNA-4339418c19474d5b9b55b5da46d6c0bc)
-	 
-Den ene streng er skabalonstrengen
-
-Den anden er kodene streng
-
-## Splejsning
-
-Fjerner noget
-
-Introns (noget som ikke er kodet protein),
-
-mRNA er det splejset RNA (messengerRNA)
+![[Genom]]
+![[Transkription]]
