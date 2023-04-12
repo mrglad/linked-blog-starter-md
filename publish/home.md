@@ -1,6 +1,7 @@
 ---
 title: "Nordins Noter"
 ---
+last update = 
 # Hjem
 Velkommen til Nordins Noter
 Noterne tager mellem 3-5 min at blive opdaret fra jeg er færdig med at skrive dem.
