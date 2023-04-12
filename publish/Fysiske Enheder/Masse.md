@@ -2,6 +2,10 @@
 Symbol: m
 Navn: Masse
 Standart-enhed: kg
-Enhed-betydning: kg = Kilo Gram, g = gram 
+Enhed-betydning: kg = Kilogram, g = gram 
 ---
-#Fysiske-Enheder
+#Fysiske-Enheder 
+Symbol: m
+Navn: Masse
+Standart-enhed: kg
+Enhed-betydning: kg = Kilogram, g = gram 

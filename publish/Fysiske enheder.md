@@ -1,5 +1,5 @@
 #fysik #Fysiske-Enheder #ordbog 
 ``` dataview
 table Symbol, Navn, Standart-enhed, Enhed-betydning
-from "Obsidion/publish/Fysiske Enheder"
+from "Obsidion/publish/Fysiske Enheder" 
 ```
