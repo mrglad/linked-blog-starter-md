@@ -19,7 +19,7 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 ## Generale links
 [Shakspere TODO](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
 
-[Tracking time](https://pro.trackingtime.co/#/hours) Tjek for lang tid du bruger på dine todo
+[Tracking time](https://pro.trackingtime.co/#/hours) Tjek hvor lang tid du bruger på dine todo
 
 [Itslearning](https://aarhustech.itslearning.com/main.aspx?TextURL=CourseCards) Tjek lektier og beskeder
 

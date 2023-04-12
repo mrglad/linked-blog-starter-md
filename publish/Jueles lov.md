@@ -1,3 +1,4 @@
+#fysik #ordbog #elektrisitet
 Det som påvirker varmetab mest, er Strømstyrken ($I^2$)
 
 Hvor kommer den frem
