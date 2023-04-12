@@ -4,7 +4,7 @@ Navn: Volume
 Standart-enhed: $m^3$
 Enhed-betydning: $m^3$ = kubikmeter
 ---
-#Fysiske-Enheder 
+#Fysiske-Enheder #fysik #ordbog 
 Symbol: V
 Navn: Volume
 Standart-enhed: $m^3$

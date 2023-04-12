@@ -4,7 +4,7 @@ Navn: Nyttevirkning
 Standart-enhed: $\frac {E_{udnttet}}{E_{tilført}}$
 Enhed-betydning:
 ---
-#Fysiske-Enheder 
+#Fysiske-Enheder #fysik #ordbog 
 Symbol: $\eta$ (eta)
 
 Navn: Nyttevirkning
