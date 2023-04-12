@@ -1,10 +1,9 @@
 ---
 title: "Nordins Noter"
 ---
-Sidste opdatering: {{date}}
 # Hjem
 Velkommen til Nordins Noter
-Noterne tager mellem 3-5 min at blive opdaret fra jeg er færdig med at skrive dem.
+Noterne tager mellem 3-5 min at blive opdateret fra jeg er færdig med at skrive dem.
 Alt som ikke er ren tekst og links kan være lidt scuffed, men det må i bare leve med
 
 Der er 5 eller 6 sider som jeg ikke har lavet... men sidst jeg slettede dem crashede det hele.
