@@ -17,3 +17,14 @@ næsten ingen lyd, så man kan hører alle bevægelser
 Spiser Ninus
 
 mor døde
+	mor rejser sig 
+	dræber mor igen og igen
+har løst til at dræbe maj
+	mor sig nej
+
+Brugte deres viden om lys
+
+Dino dræber sig selv
+	har ikke flere døde af maj
+
+slutter med at Gustav og Sonja løber væk, med hindanen i armen Assimilation
