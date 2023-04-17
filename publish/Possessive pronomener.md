@@ -1,10 +1,11 @@
+#Engelsk #Pronouns #grammatik
 adjektiviske (før substantiv) substantiviske (alene)
 
 my                                                                              mine
 
 your                                                                            yours
 
-his                                                                                his
+his                                                                               his
 
 her                                                                              hers
 

@@ -1,3 +1,5 @@
+#Engelsk #Pronouns #grammatik
+
 Der er 2 forskellgie
-	[[Personlige pronoener]]
+	[[Personlige pronomener]]
 	[[Possessive pronomener]]
