@@ -1,0 +1,1 @@
+#fysik #elektrisitet #jævnstrøm
