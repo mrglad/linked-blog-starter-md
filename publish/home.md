@@ -17,8 +17,17 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 >QUICK FIX: Reload siden og prøv igen
 >
 
+- Lorem ipsum
+- Dolor sit `class: fancy-item`
+- Amet consectetur
 
 
+`class: fancy-list`
+- Lorem ipsum
+- Dolor `class: fancy-item` sit 
+- Amet consectetur
+
+`class: fancy-item`
 ## Generale links
 [Shakspere TODO](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik
 
@@ -40,7 +49,7 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 
 [IT-info](https://aarhustech.itslearning.com/eportfolio/427803/itinfo) Hvis du skal have IT hjælp som printer eller internet 
 
-[markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/) Cheat sheet til at skrive markdown
+[markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/) Cheat-sg
 
 
 
