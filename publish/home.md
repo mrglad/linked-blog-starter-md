@@ -40,6 +40,8 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 
 [IT-info](https://aarhustech.itslearning.com/eportfolio/427803/itinfo) Hvis du skal have IT hjælp som printer eller internet 
 
+[markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/) Cheat sheet til at skrive markdown
+
 
 
 [Notion noter](https://nordinmp.notion.site/nordinmp/Skole-dashboard-87cc63aa4e1f4836b6846be8fc894710) (No longer maintained) Gamle noter hvis der er noget som ser mærkeligt ud
