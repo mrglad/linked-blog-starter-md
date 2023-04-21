@@ -1,4 +1,4 @@
 ---
-Formel: $E = P * t$
+Formel: $Q = c * m * \Delta T$
 ---
 #fysik #ordbog #Formeler 

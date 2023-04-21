@@ -1,4 +1,4 @@
 ---
-Formel: $E = P * t$
+Formel: 
 ---
 #fysik #ordbog #Formeler 
