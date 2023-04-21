@@ -16,3 +16,6 @@ Forsteranlægget skal gerne sætte sig fast i livmodersslimhinden inden for 7-8 
 [[Moderkage]]
 
 [[Foster]]
+
+[[Fødsel]]
+
