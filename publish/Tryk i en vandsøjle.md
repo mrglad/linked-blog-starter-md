@@ -1,4 +1,4 @@
 ---
-Formel:$p = \rho * g * h$
+Formel: $p = \rho * g * h$
 ---
 #fysik #ordbog #Formeler 
