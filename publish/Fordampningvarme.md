@@ -1,4 +1,4 @@
 ---
-Formel: Q = m * L_f
+Formel: $Q = m * L_f$
 ---
 #fysik #ordbog #Formeler 
