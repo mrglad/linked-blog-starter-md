@@ -4,7 +4,7 @@ Sæd kan blive taget direkte ud af testiklerne  eller kommer fra en sæddoner
 Kvinden skal også bruge hormoner for at styre ægløsningen
 
 # IVF - in-vitro-fertilisation
-(Reagensglasmetoden)
+(Reagensglasmetoden) #IVF
 
 Først gang var i 1983
 Nu bliver der født over 200 per år i DK
@@ -23,5 +23,10 @@ Hvis manden ikke kan lave nok sæd, tager man en normal sædcelle og putter den 
 	man håber at sædcelle og æg smelter sammen
 	kan stadig gå galt
 	og så følger man step 3
+
+
+Æg skal undersøges inden der bliver sat op i IVF
+I Danmark må man kun undersøge for alvorlige sygedomme - så man kan ikke sige man kun vil have hunkøn eller hankøn
+Man kan ikke "build a kid", så man kan ikke designer dem som vil have dem
 
 ![[Pasted image 20230421095452.png]]

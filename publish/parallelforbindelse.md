@@ -8,7 +8,6 @@ Formel:
 
 Når noget er parallelt for hindanen i et kredsløb
 
-
 stadig lukket
 
 Man kan bruge [[ohms lov]] igen til at finde strømstyrken

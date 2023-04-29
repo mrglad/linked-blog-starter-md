@@ -14,7 +14,6 @@ Spændingsforskellen er fordi der bliver afsat energi i komponent
 
 Det er hvad man kan erstatte alle resistorer med - det gør det mere simpelt, og derfor bliver kaldt erstatsningsresistens
 
-
 Man kan bruge [[ohms lov]] til at finde strømstyrken
 
 ![[Pasted image 20230418083009.png]]
