@@ -17,3 +17,5 @@ $N_{p}>N_{s} \implies U_{p}>U_{s}$
 
 Step-up transformation
 $N_{p}<N_{s} \implies U_{p}<U_{s}$
+
+(  [[Fysik opgaver#Transformater||Opgaver]]  )
