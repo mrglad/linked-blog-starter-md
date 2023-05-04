@@ -40,6 +40,8 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 
 [Teknisk matematik](https://tstaarhustech-my.sharepoint.com/personal/mka_aarhustech_dk/_layouts/15/onedrive.aspx?FolderCTID=0x0120000AA418455CCACB408C46F74A43B8136B&id=%2Fpersonal%2Fmka%5Faarhustech%5Fdk%2FDocuments%2F22R%2F22RInfoMappe%2FTeknisk%20Matematik%204%2Epdf&parent=%2Fpersonal%2Fmka%5Faarhustech%5Fdk%2FDocuments%2F22R%2F22RInfoMappe "https://tstaarhustech-my.sharepoint.com/personal/mka_aarhustech_dk/_layouts/15/onedrive.aspx?FolderCTID=0x0120000AA418455CCACB408C46F74A43B8136B&id=%2Fpersonal%2Fmka%5Faarhustech%5Fdk%2FDocuments%2F22R%2F22RInfoMappe%2FTeknisk%20Matematik%204%2Epdf&parent=%2Fpersonal%2Fmka%5Faarhustech%5Fdk%2FDocuments%2F22R%2F22RInfoMappe") Vores matemaitkhæfte
 
+[Basis kemi C](file:///C:/Users/nordi/Downloads/vdoc.pub_basiskemi-c.pdf)  Vores kemi 
+
 [IT-info](https://aarhustech.itslearning.com/eportfolio/427803/itinfo) Hvis du skal have IT hjælp som printer eller internet 
 
 [markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/) Cheat-sheet for markdown

@@ -1,3 +1,4 @@
+#fysik #Lys 
 God til at beskrive lystes udbredelse og retningen det udbreder sig i
 
 Der er 2 former

@@ -50,5 +50,8 @@ Fremstilling af opløsning
 		$Ag^{+}(aq)+Cl^{-} \to AgCl(s)$ (1:1)
 		n(Ag) = n(AgCl) = n(cl)
 		Cl = 0.00004655 mol
-	
-	
+
+#pH
+14 
+$[OH] = \frac{1.1*10^{-14}M_{2}}{[H_{3}O^{+}]} = \frac{1.1*10^{-14}M_{2}}{[1.1*10^{-3}M]} =1.0*10^{-11} M$ 
+Så det er en sur opløsning ^d8e943

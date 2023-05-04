@@ -1,6 +1,8 @@
 ---
-Formel: $c = 3.0 * 10^{8} \frac{m}{s}$
+Formel: i = u
 ---
-#fysik #ordbog #Formeler 
+#fysik #ordbog #Formeler
+Indkommende lysstråle og den reflekterende lysstråler ligger altid symmetrisk omkring [[Normal||normalen]] 
 
-$c = 3.0 * 10^{8} \frac{m}{s}$ er i vakuum, i luft er det lidt langsommere
+Der gælder at indfaldsvinklen er lig med udfaldsvinkling
+	i er den ene vinkel u er den anden
