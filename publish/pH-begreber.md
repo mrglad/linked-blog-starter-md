@@ -7,3 +7,5 @@
 >Når man heller syre ned i en opløsning, er det ikke syre længere men en opløsning, da der kan være lidt af det hele
 >
 Syre -> sur opløsning
+
+[[Syre-baseindikator]]

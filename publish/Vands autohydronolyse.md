@@ -6,7 +6,7 @@ Vand reagere med sig selv
 $H_{2}O+H_{2}O \to OH^{-}+ H_{3}O^+$
 
 
-Koncentrationen af oxonium og hydroxid er målt i rent vand til
+Koncentrationen af [[oxonium]] og [[hydroxid]] er målt i rent vand til
 ![[Kemi opgaver#^d8e943]]
 
 $[H_{3 }O^{+}] > [OH^{-}]$    sur opløsning
