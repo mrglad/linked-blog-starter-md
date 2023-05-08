@@ -16,6 +16,11 @@ Man skal bruge sølvnitrat - det skal også dryppe ned
 Man kan lave en kurve hvis man hele tiden ha ren pH-meter 
 Og aflæser hele tiden
 ![[Pasted image 20230508094753.png]]
+pH i starten er lav hvis det er en [[Stærk syre]], men springet er også størst hvis det er en [[Stærk syre]]. Det modsatte gælder så for [[Svag syre]]
+
+pH i [[ækvivalenspunktet]]  for 
+* [[Stærk syre]] = 7
+* [[Svag syre]] > 7 
 ## Kolorimetrisk titrering
 At man finder farven
 Det behøver ikke at være specifikt (på overstående billede, behøver den ikke være 7)
