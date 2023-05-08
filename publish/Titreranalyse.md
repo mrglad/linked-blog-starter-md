@@ -16,8 +16,11 @@ Man skal bruge sølvnitrat - det skal også dryppe ned
 Man kan lave en kurve hvis man hele tiden ha ren pH-meter 
 Og aflæser hele tiden
 ![[Pasted image 20230508094753.png]]
+^^ stærk syre
 pH i starten er lav hvis det er en [[Stærk syre]], men springet er også størst hvis det er en [[Stærk syre]]. Det modsatte gælder så for [[Svag syre]]
 
+![[Pasted image 20230508100920.png]]
+^^ svag syre
 pH i [[ækvivalenspunktet]]  for 
 * [[Stærk syre]] = 7
 * [[Svag syre]] > 7 
