@@ -1,3 +1,4 @@
+#teknologi #målgruppe 
 Når man kigger på enkelte folk
 	og så siger man hvor var de i skole, hvor folk boer, osv
 	
