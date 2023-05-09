@@ -12,6 +12,6 @@ svampe celler
 plasmid
 [[Organeller]]
 Kromosomer
-Der er noget som laver proteiner
+Der er noget som laver [[proteiner]]
 
 Der er ikke nogen cellekerne, så ting flyver bare rundt

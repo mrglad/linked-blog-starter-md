@@ -16,9 +16,9 @@ Når man skal kigge efter kilder, er det en god idé at kigge efter hvem der har
 
 Ophavssituationen handler om hvorfor kilden kommer til. Det kan være at de har husket forkert da den blev skrevet ned. Overvej om de har haft grund til at ændre på historien.
 
-Primære kilde er om at et emne fra personen.
+Primære kilde er om at et [[emne]] fra personen.
 
-Sekundære kilde, er også om et emne, men kilden er baseret på andre kilder.
+Sekundære kilde, er også om et [[emne]], men kilden er baseret på andre kilder.
 
 Når du undersøger er det for det meste en god idé at det er objektivt. Objektiv betyder at det er neutralt og er baseret på fakta. Det modsatte af objektiv er subjektivt. Subjektiv er lavet på følelser og holdninger.
 

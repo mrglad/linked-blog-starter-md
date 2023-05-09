@@ -1,5 +1,5 @@
 #ordbog #Biologi #cellen #dna 
-Opbygget som DNA
+Opbygget som [[DNA]]
 
 3 forskelligheder
 * Enkelstrenget

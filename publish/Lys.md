@@ -1,5 +1,6 @@
 #fysik #Lys 
 # Hvad er lys
+Lys er noget som bliver reflekteret af noget andet
 Pythagoras og platos troede fra 1000 år siden at lys er noget vi sender fra vores øjne og så kommer det tilbage
 	Ligesom raytracing
 	
@@ -15,7 +16,11 @@ Lys kan både være bølger og partikler
 
 > [!NOTE]  Lys er en bølge, men nogen gange når vi måler bliver det til partikler
 
-LYS TØVER - den beværger sig forskelligt (JUPITER IO JORDEN
+LYS TØVER - den beværger sig forskelligt (JUPITER IO JORDEN)
+
+
+Når lyses brydes betyder det at det skifter retning (I vand)
+	Så nogle materialer har forskellige lysets hastighed
 
 ![[Elektromagnetiske spektrum]]
 

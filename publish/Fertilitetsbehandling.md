@@ -15,7 +15,7 @@ Nu bliver der født over 200 per år i DK
 	Der skal modnes mere end 1 æg
 	Hun for også meget som hæmmer LH - fordi der skal ikke komme æg ud inden der er nogen som er klar til at tage dem ud
 2. **Æg udtagning**: Kanyle bliver ført om i skeden og i gennem den for at æggene kan blive suget ud
-3. **Befrugtning**: 100.000 sædceller bliver tilsat til hvert æg - og bliver opbevaret i et incubator (varmeskab)
+3. **[[Befrugtning]]**: 100.000 sædceller bliver tilsat til hvert æg - og bliver opbevaret i et incubator (varmeskab)
 4. **Celledelinger**: 40% bliver ikke delt korrekt
 5. **opsætning**: Æggene kommer op i livmoderen med et plastikrør
 

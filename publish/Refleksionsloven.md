@@ -6,3 +6,5 @@ Indkommende lysstråle og den reflekterende lysstråler ligger altid symmetrisk 
 
 Der gælder at indfaldsvinklen er lig med udfaldsvinkling
 	i er den ene vinkel u er den anden
+
+[[Brydningsloven]]

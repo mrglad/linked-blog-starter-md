@@ -1,5 +1,5 @@
 ---
-Formel: $$\frac{U_{s}}{U_{p}}=\frac{N_{s}}{N_{p}}$$
+Formel: $\frac{U_{s}}{U_{p}}=\frac{N_{s}}{N_{p}}$
 ---
 
 #fysik #Formeler #Lys #ordbog 

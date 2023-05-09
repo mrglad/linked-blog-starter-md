@@ -9,7 +9,7 @@ Første meiotiske deling anden meiotiske deling
 Alle celler er forskellige
 
 # Første meiotiske deling
-Interfasen - dna kopieres 
+Interfasen - [[dna]] kopieres 
 Profase 1 - kommer i orden, de spiralese og kommer i x'er, ligger sammen så man kan dele på x og tværs
 	overkrydsning -  de krydser over og bytter - så man har 4 forskellige kromatider skal bytte med samme nummer (nr 5 fra mor og nr 5 fra far)
 Metafase 1 - Der kommer tentråde så de er klar til at blive hævet videre, det er lidt tilfældigt 

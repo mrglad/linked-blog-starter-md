@@ -4,5 +4,5 @@ Det stof eller de stoffer som et enzyms aktive center binder sig til, for hereft
 **Substrat:**
 
 -   Noget der bliver sat sammen med noget andet, til at lave noget
--   Passer en i dens active site
+-   Passer en i dens [[active site]]
 -   De enzymer virker på

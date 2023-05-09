@@ -1,6 +1,6 @@
 #dansk #horror #psykoanalyse
 # Erstatningsdannelse
-Når man erstatter fortrængning med noget andet
+Når man erstatter [[fortrængning]] med noget andet
 
 -   Drømme
 -   fejlhandlinger

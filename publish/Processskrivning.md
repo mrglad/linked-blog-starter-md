@@ -3,7 +3,7 @@ To faser
 
 Den kreative: når du for gode ideer til indholdet
 
-Den kritiske: hvor du på skift retter indhold, sprog og skruktur.
+Den kritiske: hvor du på skift retter indhold, [[sprog]] og skruktur.
 
 Svækker hvis man gør det samme tid
 

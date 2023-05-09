@@ -10,4 +10,4 @@ Det er lie mellem en roman og en kortprosa. Hvor en roman er lang og forgår mel
 >-  Mest moderne: starter i medias res, åbenslutning 
 
 
-Der findes mange noveller som udfordre den genreopfattelse som man har, da det nogle gange kan være svært at skelne mellem virkeligheden og fantasi
+Der findes mange [[noveller]] som udfordre den genreopfattelse som man har, da det nogle gange kan være svært at skelne mellem virkeligheden og fantasi

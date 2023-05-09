@@ -9,11 +9,21 @@ Alt som ikke er ren tekst og links kan være lidt scuffed, men det må i bare le
 Der er 5 eller 6 sider som jeg ikke har lavet... men sidst jeg slettede dem crashede det hele.
 Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den første linje.
 
+--- 
+
+## TODO
+Det er bare en todo liste til mig selv :) 
+ - [ ] Export opgaver p2
+ - [ ] Film mundtlig
+
+--- 
+
 >[!warning]
 >Søgning kan være lidt scuffed
 >
 >QUICK FIX: Reload siden og prøv igen
->
+
+--- 
 ## Generale links
 [**Shakspere TODO**](file:///C:/Users/Nordin/OneDrive/School/Shakspere%20To-Do%20v1.0/shakspere.html) Bedste To-do app lavet af Frederik (Virker kun lokalt)
 
@@ -46,4 +56,3 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 [**Onedrive**]([Skole](https://tstaarhustech-my.sharepoint.com/:f:/g/personal/at101823_edu_aarhustech_dk/ErzaAos3f-hFl_BKjemb7ucBadBtFiQO8M-C6yeLcNdtMw?e=7usPU7)) Onedrive dokumenter
 
 [**Notion noter**](https://nordinmp.notion.site/nordinmp/Skole-dashboard-87cc63aa4e1f4836b6846be8fc894710) (No longer maintained) Gamle noter hvis der er noget som ser mærkeligt ud
-

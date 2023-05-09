@@ -7,20 +7,20 @@ Man skal også bruge en indikator som skifter farve hvis der er en[[ ækvivalent
 
 Man kan bruge det til at finde f.eks. hvor meget salt der er i saltvand
 Man skal bruge sølvnitrat - det skal også dryppe ned
-	indtil ækvivalenspunktet er fundet
+	indtil [[ækvivalenspunktet]] er fundet
 
 >[!Caution] Husk en indikator - ellers kan du dryppe i lang tid
 
 ![[Pasted image 20230508094430.png]]
 ## Titrerkurve
-Man kan lave en kurve hvis man hele tiden ha ren pH-meter 
+Man kan lave en kurve hvis man hele tiden ha ren [[pH-meter]] 
 Og aflæser hele tiden
 ![[Pasted image 20230508094753.png]]
-^^ stærk syre
+^^ [[stærk syre]]
 pH i starten er lav hvis det er en [[Stærk syre]], men springet er også størst hvis det er en [[Stærk syre]]. Det modsatte gælder så for [[Svag syre]]
 
 ![[Pasted image 20230508100920.png]]
-^^ svag syre
+^^ [[svag syre]]
 pH i [[ækvivalenspunktet]]  for 
 * [[Stærk syre]] = 7
 * [[Svag syre]] > 7 

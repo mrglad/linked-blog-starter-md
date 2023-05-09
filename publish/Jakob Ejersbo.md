@@ -1,7 +1,7 @@
 #dansk #realisme 
-Den litteraturhistoriske kontekst: samfundskritisk realisme
+Den litteraturhistoriske kontekst: samfundskritisk [[realisme]]
 
-Man kan kalde hans realisme “dirty realism”
+Man kan kalde hans [[realisme]] “dirty realism”
 
 Han fik inspiration fra Charles Bukowski og Raymond Carver ´the dirty duo´.
 
