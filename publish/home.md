@@ -15,6 +15,8 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 Det er bare en todo liste til mig selv :) 
  - [ ] Export opgaver p2
  - [ ] Film mundtlig
+ - [ ] indsæt billede på 186
+ - [ ] indsæt tal i 196 på billede
 
 --- 
 
