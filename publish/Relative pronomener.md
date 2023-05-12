@@ -8,7 +8,7 @@ Det er noget som viser tilbage noget
 * Who - personer/kæledyr
 * Whom - personer - som er genstandsled eller et forholdsord 
 * Which - Ting, dyr, begreber (socialism)
-* Whose - "hvis" [[ejestedord]]
+* Whose - "hvis" [[ejestedord]], Både om personer og om ikke personer
 * (That) - who + which
 
 # Exempel
