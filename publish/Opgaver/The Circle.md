@@ -37,4 +37,4 @@
 	4. where she likes 2 walk and run
 	5. what sports she likes
 	6. her vistas (udsigt)
-[[Disadvanges' with LuvLuv]]
+[[Disadvantages' with LuvLuv]]
