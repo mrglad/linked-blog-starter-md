@@ -1,5 +1,5 @@
 #opgaver #Engelsk #tekst 
-It knows everythingv about you - just an easier way to stalk people
+It knows everything about you - just an easier way to stalk people
 
 You dont learn anything from the person
 
