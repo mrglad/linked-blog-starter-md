@@ -4,11 +4,11 @@ titel: Relative pronomener (henføende stedord)
 Som / der
 Det er noget som viser tilbage noget
 
-Who - personer/kæledyr
-Whom - personer - som er genstandsled eller et forholdsord 
-Which - Ting, dyr, begreber (socialism)
-Whose - "hvis" [[ejestedord]]
-(That) - who + which
+* Who - personer/kæledyr
+* Whom - personer - som er genstandsled eller et forholdsord 
+* Which - Ting, dyr, begreber (socialism)
+* Whose - "hvis" [[ejestedord]]
+* (That) - who + which
 
 # Exempel
 ## danske 
