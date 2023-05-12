@@ -5,4 +5,4 @@ You dont learn anything from the person
 
 It gets weird when you only do things the other person likes
 
-You can see other peoples mediacal
+You can see other peoples medical records
