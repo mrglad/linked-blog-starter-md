@@ -36,4 +36,4 @@
 	3. what movies she likes
 	4. where she likes 2 walk and run
 	5. what sports she likes
-	6. her vistas
+	6. her vistas (udsigt)
