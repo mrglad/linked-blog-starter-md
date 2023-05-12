@@ -16,7 +16,7 @@ Det er bare en todo liste til mig selv :)
  - [ ] Export opgaver p2
  - [ ] Film mundtlig
  - [ ] indsæt billede på 186 
- - [ ] indsæt tal i 196 på billede - også for 189 - 1999
+ - [ ] indsæt tal i 196 på billede - også for 189 - 199
  - [ ] p4 opgave 4 pyramidestub skal laves om - ikke i $^2$
 
 --- 
