@@ -21,6 +21,7 @@
 6.  How can Luvluv help people with dating? Give examples.
 	1. Figure out what your partner likes
 	2. allergies - so that you dont eat breed with horses
+	3. medical records
 7.  Has Francis been informed about this beforehand or is he a true volunteer? What do you base your answer on?
 		1. He knows what the presentation is about before everyone else
 			1. "Francis tells Mae that he thinks she'll really enjoy the presentation"
