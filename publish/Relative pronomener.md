@@ -2,6 +2,7 @@
 titel: Relative pronomener (henføende stedord)
 ---
 Som / der
+
 Det er noget som viser tilbage noget
 
 * Who - personer/kæledyr
