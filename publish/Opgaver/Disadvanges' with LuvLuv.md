@@ -7,4 +7,4 @@ It gets weird when you only do things the other person likes
 
 You can see other peoples medical records
 
-No real romance - only ho
+No real romance - only hookups
