@@ -3,4 +3,4 @@
 Der er 2 forskellgie
 	[[Personlige pronomener]]
 	[[Possessive pronomener]]
-[[Relative pronomener (henføende stedord)]]
+[[Relative pronomener]]
