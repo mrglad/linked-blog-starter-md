@@ -20,7 +20,7 @@
 	3. It doesn't really say what the app does
 6.  How can Luvluv help people with dating? Give examples.
 	1. Figure out what your partner likes
-	2. allergies - so that you dont eat breed with horses
+	2. allergies - so that you dont eat bread with horses
 	3. medical records
 7.  Has Francis been informed about this beforehand or is he a true volunteer? What do you base your answer on?
 		1. He knows what the presentation is about before everyone else
@@ -37,4 +37,6 @@
 	4. where she likes 2 walk and run
 	5. what sports she likes
 	6. her vistas (udsigt)
+
+
 [[Disadvantages' with LuvLuv]]
