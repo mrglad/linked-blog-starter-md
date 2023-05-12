@@ -10,5 +10,3 @@ You can see other peoples medical records
 No real romance - only hookups
 
 Goes for incels
-
-They 
