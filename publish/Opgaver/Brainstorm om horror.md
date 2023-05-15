@@ -24,6 +24,9 @@ hvorfor vi er tiltrukket til det skræmmende.
 >[!quote]
 >At det netop er atombomber, der udsletter civilisationen i Fallout 4, er meget typisk for denne genre. Siden Anden Verdenskrig har det været et gennemgående træk i litteratur, musik, film og spil, at dommedag skyldes mennesket selv. Det forklarer adjunkt Mathi-as Clasen fra Institut for Kommunikation og Kultur på Aarhus Universitet
 
+> [!QUOTE] quote
+> Vi har alle oplevet, at dårlige ting sker i vores liv, og af og til ønsker vi os tilbage til tidspunktet lige før, det gik galt. Det er akkurat det, vi forsøger at gøre med Fallout 4. At vi som mennesker må se i øjnene, at vores liv kan forandre sig til det ukendelige på grund af de valg, vi træffer,« siger Todd Howard.
+
 >[!quote]
 >Der var en stor fascination af religiøs splatterlitteratur i middelalderen, og det plan-tede en frygt i folk, som kirken dengang misbrugte til at få magt over menighederne
 
