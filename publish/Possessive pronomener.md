@@ -1,5 +1,5 @@
 #Engelsk #Pronouns #grammatik
-adjektiviske (før substantiv) substantiviske (alene)
+adjektiviske (før substantiv) substantiviske (alene) [[ejestedord]]
 
 my                                                                              mine
 

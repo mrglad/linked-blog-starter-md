@@ -68,3 +68,6 @@ Så det er en sur opløsning ^d8e943
 127. opgave
 	Methylorange
 0.0016/0.02 = 0.0805 M
+
+
+# redoxreaktion
