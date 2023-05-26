@@ -9,4 +9,4 @@
 more/most (urgent/more urgent/most urgent)
 
 **3 stavelser**
-more/most (intersting/more intersting/most intersting)
+more/most (interesting/more interesting/most interesting)
