@@ -1,7 +1,7 @@
 ---
 Symbol: T
 Navn: Absolutte temperatur
-Standart-enhed: Kelvin
+Standart-enhed: Kelvin (273.15)
 Enhed-betydning:
 ---
 #Fysiske-Enheder #fysik #ordbog 
