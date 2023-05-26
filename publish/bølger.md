@@ -7,6 +7,11 @@
 # Generelt
 Det kan beskrives med vha. deres [[Periode]] (T), [[frekvens]] (f), [[Bølgelængde]] ($\lambda$), [[amplitude]] (A), [[Obsidion/publish/Bølgehastighed]] (v)
 
+
+Tværbølger på tværs af noget /\/\>
+Længdebølger bevæger sig langs noget ->->->
+
+En laser er en monokromatisk lys (den har kun en farve)
 ## Refleksion
 Bølger kan reflektere
 
@@ -18,3 +23,6 @@ Bølger kan bøje om hjørner
 
 ## Interferens
 Bølger kan interfereres
+
+
+[[Lysets bølgemodel]]
