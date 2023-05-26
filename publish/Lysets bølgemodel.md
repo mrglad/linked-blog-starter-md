@@ -4,3 +4,4 @@ Da Young udførte eksperimentet  troede man at det ville opfører sig som partik
 
 Det er på grund af Destruktiv interferens 
 
+![[lys gennem optisk gitter.excalidraw]]
