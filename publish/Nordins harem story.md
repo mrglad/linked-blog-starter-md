@@ -1,5 +1,12 @@
 #Programming #noter 
 
+## cheats
+Hvad er din livret? (vælger hvem man kan date)
+- 
+Hvad er din yndlings farve? (vælger hvem man spiller som)
+- 
+Hvad er dit CPR-nummer? (Se bedste mulighed)
+- 
 ## Introduktion
 Velkommen til Nordin's Harem, dette er et speed dating spil
 **Hvem er jeg** : Du er mig: Nordin, en dreng med KÆMPE rizz, og det skal du ud og bruge nu
@@ -94,6 +101,7 @@ introducere dig selv : du griner lidt, og siger du hedder Nordin, han siger han 
 ## Emil
 **Ny person** : du går videre, imens du går rundt blandt folk ser du en dreng i et hjørne, han ser meget koncentreret ud, hvad mon han laver?
 **næste** : du går over til ham
+
 **Spørg hvad han laver** : Og spørger om hvad han laver, og han svarer
 	**Næste** : at han er en Filocifer, og at han er i gang med at overvejet livet, han siger også at hans navn er Emil.
 		**Spændende** : du synes at det er meget interessant og i snakker lidt om det
@@ -112,7 +120,7 @@ introducere dig selv : du griner lidt, og siger du hedder Nordin, han siger han 
 		**Du kan sluge lange genstand** : du er ret god til at deepthroat ting og har øvet dig meget i folkeskolen
 		**Selvmord** : Da du var yngre prøvede du at begå selvmord
 		**Nikotin** : du nyder en cigaret i ny og næ
-**Næste** : du havde en aften med Emil, han var hyggelig, og det ender med at han giver dig hans telefon nummer.
+	**Næste** : du havde en aften med Emil, han var hyggelig, og det ender med at han giver dig hans telefon nummer.
 
 **Næste** : Han spørger dig om hvor du ligger på det politiske kompas
 **Du er socialist** : Emil kigger på dig med begejstring i sine øjne
@@ -126,42 +134,84 @@ introducere dig selv : du griner lidt, og siger du hedder Nordin, han siger han 
 **Du lytter til mainstream pop** : "Bro det er så basic, du er en basic bitch", du lægger mærke til at manden elsker at gatekeep musik
 	**Men jeg er din bitch** : 😳 - Emil
 	**Ok, men du er min bitch** : 😏 - Emil
-	**Nah, det er jo mange der lytter til det af en grund** : "BASIC"
-	
+	**Populært af en grund** : du siger at der er en grund til at der er så mange der lytter til det, "BASIC" - råber Emil
+	**Rock** - "My kind of person, hvem lytter du til?
+		**Gorillaz** - Emil elsker også Gorillaz
+		**Arctic Monkeys** - Du har god smag
+		**Queen** - Bangers
+		**Led Zeppelin** - *Emil ser bare på dig* (Editor note: er DeT EN Jojo rEFerEnCE)
 
-
+**Næste** - I snakker videre og har det sjovt. Men da tiden går og du bliver nødt til at sige farvel
+**Smut videre** - Du går videre 
+**Spørg om hans nummer** - 
+	(Hvis god score) - Du får hans snap - som ikke mange kender til 
+	(Hvis medium score) - Han giver dig hans discord
+	(Hvis dårlig score) - (Editor note: det næste skal læses i en britisk accent) "Nah bruv r ya shitting me"
+**Invitere ham ud og drikke** 
+	(Hvis god score) - Han er med på at drikke - END GAME
+	(Hvis medium score) - Han er med på at drikke efter speed dating er slut
+	(Hvis dårlig score) - Han griner af dig og går videre
 
 ## Magnus
+**Ny Person** - Du skynder dig at finde en ny person, men hver gang du gå over til en finder de en ny person. Men pludselig ser du en sexy mand se på dig
+**næste** - hans muskler er gigantiske, hans hår basic, og hans solbriller for ham til at se duchy ud. Men der er stadig et eller andet som vækker sommerfuglene nede i din mave.
+**næste** - i smiller sødt til hinanden, og du går over til ham, og han går mod dig
+
+**Kig saftigt på ham** - han er en lækker steg og det viser du tydligt, og han rødmer og siger hans navn er Magnus
+**Introducere dig selv** - Du starter tørt ud med "Hej jeg er Nordin, hvemst er du", og han svarer tørt "Magnus 👨‍🦲"
+**"Diss" ham** - Du sviner ham til og han sviner dig til, ingen af jer synes det var specielt sjovt - men du finder i det mindste ud af at han hedder Magnus 
+**Sig noget sejt** - du siger noget sejt og introducere dig selv 🤙, og han gør det samme. 
 
 **Næste** : Du ser nu at han har en "Among us" trøje på. Du bliver glad da der ikke er mange der kender til den manga, så i begynder at snakke om weeb ting.
 **Næste** : du finder dog ud af at han ikke har læst hit mangaen "Among Us"
 **Snak om Among Us manga** : Det handler om små rummænd som skal finde en morder, "..." Magnus kigger bare på dig, meget skuffet
-**Snak om JoJo** : Alle elsker JoJo, og alle har set det - troede du i hvert fald, indtil du mødte Magnus, han har ikke set det og gider ikke se det alene. Du bliver skuffet
+**Snak om JoJo** : Alle elsker JoJo, og alle har set det - troede du i hvert fald, indtil du mødte Magnus, han har ikke set det og gider ikke se det da det har "få mange episoder". Du bliver skuffet
 **Snak om One Piece** : * Hvad er din holdning til One piece *
 	**Bedste serie nogensinde** : Du kan slet ikke styre dig imens du snakker med Magnus, du synes det er den bedste serie nogensinde lavede, og intet kan slå det
 	**Meh** : Du prøvede og fejlede, det var bare ikke spændende nok for dig, selv efter du så 1000+ episoder
 	**Den er for lang** : Du fortæller ham at du er en travl mand, og ikke har tid til at se den, også selvom at det kommer til at ændre verden når han finder "the one piece"
 
+**Næste** - du kan jo tydligt se at han er kæmpe buff, og elsker at træne
+**Dream body** - I snakker om hvad den perfekte krop er, og Magnus synes ikke at man skal være at for buff, og du synes at det er hot når man kan se nogle muskler
+**Rør ved hans muskler** - Uden at spørge, begynder du at rør ved hans muskler, du starter ved hans røv, og arbejde stille og roligt op ad mod hans bryst
+	**Næste** - Magnus er lidt gay og kan godt lide det
+**Snak om din yndlings øvelse** - Magnus elsker at lave alle mulige øvelser, så længe der skal bruges dumbbells 💪, og du elsker at træne dine ben
+**Tag i fitten**
+	(70% chance) - aaah det tror jeg sku ikke, har ikke trænet i sådan 2 uger, og gider ikke starte lige nu
+	(5% chance) - du træner men der sker ikke spændende - end round
+	(25% chance) - "Sure det kan vi godt"
+		**næste** - I starter med at varme lidt om
+		**næste** - Hvor efter i skal til at lave nogle Hammer Curls, hvilke vægte tager du?
+			**7 kg** - Du laver nogle hammer curls, men synes de er alt for lette, og Magnus ser lidt sjovt på dig, det er lidt pinligt 
+			**10 kg** - Du laver nogle hammer curls, det er lidt for nemt
+			**15 kg** - Du laver nogle hammer curls, men de er lidt for tunge så du laver kun 3 sæt af 8
+			**50 kg** - Magnus kigger op og ned af dig, meget imponeret, for du ligner ikke en som kan løfte så meget... Det kan du heller ikke. Det var godt nok pinligt
+		**næste** - I går over til at lave nogle Bench presses, han starter, og dig bagefter. Hvor mange kilo?
+			**20 kg** - Alt for nemt, du crusher dem uden rigtig at lave en mine
+			**30 kg** - Det er en god vægt, og du vokser lidt som person - selvfølgelig er det slet ikke så meget som Magnus som easy gjorde 50 kg
+			**50 kg** - Du løfter den op, og skynder dig at tage 8 reps, men du når ikke meget længere end det
+			**120 kg** - Du løfter dem, og det ender med at du bliver kvalt, Magnus var på toilettet imens det skete, så du endte med at dø... RIP
+		**næste** - til sidst laver i noget kondition - hvilket du ikke er for glad for, da alle ved at man mister gain, når man laver kondi
+		**næste** - Magnus giver hans snap, og du har nu fået en ny gymbro! nice 💪 
+
+**næste** - I begynder at snakke om hvordan i begge har problemer, og skal til at confess en masse ting
+**næste** - men inden i kan nå det hører i at man skal snart til at finde en ny person
+**Spørg om hans kontakt oplysninger** 
+	(Hvis god score) - du får han snapchat, og du ringer ham op for at være sikker
+	(Hvis medium score) - Du for hans instagram, hvad du ikke ved er at han ikke bruger insta længere
+	(Hvis dårlig score) - han ignorere dig og går videre
+**Gå videre til næste person**
+(Hvis man rørte ved hans muskler) **Rør hans muskler** - Du rører ved ham, denne gang bliver han ikke så overrasket, og du får hans snap
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Færdig
+**næste** - Du skal nu vælge en person som du vil tage videre ud
+(Vælg person man har fået nummer på)
+**næste** - i går ud af John's og videre ned mod hallerne
+**næste** - Her ser i en masse forlystelser, og MANGE mennesker, som alle har det sjovt
+**næste** - du ser på et skilt, at der i denne weekend er Hammel Hestemarked, noget du bare skal gøre med din date
+**næste** - I går ind, og har en mega hyggelig aften
+**næste** - (speciel ending for alle personer)
 
 
 
@@ -204,3 +254,5 @@ Kasper - High iq - skak fetish
 You have a gender and sexuality
 
 NSFW mode (moaning)
+
+Mirscat - easter egg - bare en masse lorte jokes
