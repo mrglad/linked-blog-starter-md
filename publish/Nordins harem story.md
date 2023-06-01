@@ -111,8 +111,8 @@ introducere dig selv : du griner lidt, og siger du hedder Nordin, han siger han 
 		**Du er morder** : da du var en lille dreng, kom du til at give en dreng hjernerystelse og det endte med at dræbe ham
 		**Du kan sluge lange genstand** : du er ret god til at deepthroat ting og har øvet dig meget i folkeskolen
 		**Selvmord** : Da du var yngre prøvede du at begå selvmord
-		**Du er en løgner** : du lyver til alle omkring dig, om hvem du er
-	**Næste** : du havde en aften med Emil, han var hyggelig, og det ender med at han giver dig hans telefon nummer.
+		**Nikotin** : du nyder en cigaret i ny og næ
+**Næste** : du havde en aften med Emil, han var hyggelig, og det ender med at han giver dig hans telefon nummer.
 
 **Næste** : Han spørger dig om hvor du ligger på det politiske kompas
 **Du er socialist** : Emil kigger på dig med begejstring i sine øjne
@@ -179,24 +179,28 @@ introducere dig selv : du griner lidt, og siger du hedder Nordin, han siger han 
 
 Tag din date med på Hammel hestemarked
 
+Buster - yandere dræber alle efter ham selv
 
+Felix - tsundere
 
+Juliette - dandere
 
+Gustav - deredere
 
+Josefine - kuudere
 
+Freja - depri - pis kink
 
+Mads - teasedere
 
+Terkel - deredere
 
+Christoffer - comic sans
 
+Kristian - feet fetish - horny as fuck
 
+Kasper - High iq - skak fetish
 
+You have a gender and sexuality
 
-
-
-
-
-
-
-
-
-
+NSFW mode (moaning)
