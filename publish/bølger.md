@@ -5,10 +5,10 @@
 [[Elektromagnetiske bølger]]
 
 # Generelt
-Det kan beskrives med vha. deres [[Periode]] (T), [[frekvens]] (f), [[Bølgelængde]] ($\lambda$), [[amplitude]] (A), [[Obsidion/publish/Bølgehastighed]] (v)
+Det kan beskrives med vha. deres [[Periode]] (T), [[frekvens]] (f), [[Bølgelængde]] ($\lambda$), [[amplitude]] (A), [[Obsidion/publish/Bølgehastighed|bølgehastighed]] (v)
 
 
-Tværbølger på tværs af noget /\/\>
+Tværbølger på tværs af noget ``` /\/\>```
 Længdebølger bevæger sig langs noget ->->->
 
 En laser er en monokromatisk lys (den har kun en farve)

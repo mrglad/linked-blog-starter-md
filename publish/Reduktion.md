@@ -1,5 +1,5 @@
 #redoxreaktioner #kemi #ordbog 
 
 > [!NOTE] Reduktion
-> En oxidation er en optagelse af elektroner
+> En reduktion er en optagelse af elektroner
 

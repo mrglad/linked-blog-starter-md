@@ -13,9 +13,7 @@ Men det skulle være ret nemt at se om det er noget jeg har skrevet efter den f�
 
 ## TODO
 Det er bare en todo liste til mig selv 😄
- - [x] Lav de sidste mat videoer
- - [x] lav skriftlig
- - [x] set 3d print over
+ - [ ] 
 
 --- 
 
