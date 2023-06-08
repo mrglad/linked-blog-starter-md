@@ -1,2 +1,2 @@
 #redoxreaktioner #kemi #ordbog,
-Kan anve
+Kan anvendes til at se om et stof () 
